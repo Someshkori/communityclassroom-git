@@ -1,0 +1,10 @@
+companies
+work 
+working 
+habits
+projects
+meetings
+deadline
+:wq
+
+hello
